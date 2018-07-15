@@ -1,0 +1,4 @@
+tree("Root")
+	sequence
+		PickRandomDestination
+		MoveToDestination

@@ -1,0 +1,3 @@
+tree("Root")
+	while IsHealthLessThan(0.1)
+		Explode
