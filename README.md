@@ -6,7 +6,6 @@ A project with some examples of use and techniques of artificial intelligence ap
 
 ### Topics
 
-```
 01 - Vectors and Moving
 02 - Pushing The Character Forward
 03 - WayPoints
@@ -24,4 +23,7 @@ A project with some examples of use and techniques of artificial intelligence ap
 15 - Finite State Machine
 16 - Behaviour Trees
 17 - GOAP
-```
+
+### Instructions
+
+Use "E" key to go to the next scene, and "Q" key to go to the previous scene. Each scene has its own instruction Canvas (if needed)

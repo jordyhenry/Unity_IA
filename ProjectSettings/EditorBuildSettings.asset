@@ -6,6 +6,54 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/AI_Course/Scenes/01 - Vectors and Moving.unity
+    guid: 7def9fdac071f33488a58222b72970a6
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/02 - Pushing The Character Forward.unity
+    guid: ce73ce4bc49a0d14ea6448bd62342a8b
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/03 - WayPoints.unity
+    guid: 1d85c7c06e3696041b4817d7b216a938
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/04 - Unity WayPoints.unity
+    guid: ba2c44f964cc5054390d53bcc52bc761
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/05 - Simple AI Car.unity
+    guid: ed8ae48e4e2c7834fbafb96e2c3036b1
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/06 - Unity Vehicle Setup.unity
+    guid: 8d453c1cfbef73a4eb66c5feaf8fcc5f
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/07 - Pathfinding Through Waypoints.unity
+    guid: d6e8ea53a04604149b85ed6dd4651f39
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/08 - Navigation Areas Cost.unity
+    guid: 2cdb18e08b9dcce44923a7815be08876
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/09 - NavMesh and Off Links.unity
+    guid: 5a74c9536ab91bd41a0ea1b9940dea23
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/10 - Different NavMesh Agents.unity
+    guid: 598f9060c2fddc34e9116f30d19fe48b
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/11 - Crowd Simulation.unity
+    guid: 12073464e96b5444cbad22e3bd5cf7cc
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/12 - Flee Behaviour.unity
+    guid: d27e08256d1527545862900e3f6b5b54
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/13 - Flock Behaviour.unity
+    guid: baad25549d654cb4ba6b03af0f1be3ab
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/14 - Line of Sight.unity
+    guid: a4e58f1d8c36ec945987fe8f0db5e888
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/15 - Finite State Machine.unity
+    guid: a64be48bf18e12d4b977374680957816
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/16 - Behaviour Trees.unity
+    guid: 95bc9ff4a724bfc4f811bb8793adbf87
+  - enabled: 1
+    path: Assets/AI_Course/Scenes/17 - GOAP.unity
+    guid: e8ab3d8f5c9b30745aae25cbbe46aed0
   m_configObjects: {}

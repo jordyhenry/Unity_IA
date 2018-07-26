@@ -6,9 +6,9 @@ public class AILineOfSight : MonoBehaviour
 
 	float rotationSpeed = 2.0f;
 	float speed = 2.0f;
-	float visDist = 20.0f;
-	float visAngle = 30.0f;
-	float shootDist = 5.0f;
+	public float visDist = 20.0f;
+	public float visAngle = 30.0f;
+	public float shootDist = 5.0f;
 
 	string state = "IDLE";
 	Animator anim;
