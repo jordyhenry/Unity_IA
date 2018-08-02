@@ -1,6 +1,6 @@
 # Artificial Intelligence Samples
 
-A project with some examples of use and techniques of artificial intelligence applied in Unity
+A project with some use cases of artificial intelligence techniques implemented in Unity
 
 ![Finite State Machine Example](out.gif)
 
